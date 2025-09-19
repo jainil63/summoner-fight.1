@@ -11,5 +11,10 @@ config_version=5
 [application]
 
 config/name="Summoner-fight"
+run/main_scene="uid://dv7hpscsnseyf"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[rendering]
+
+renderer/rendering_method="mobile"

@@ -1,0 +1,6 @@
+# External Asset Link
+
+Here, paste all the link of external assets... we use..
+
+ - https://.....
+ - https://.....
