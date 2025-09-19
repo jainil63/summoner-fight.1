@@ -10,11 +10,30 @@ config_version=5
 
 [application]
 
-config/name="Summoner-fight"
-run/main_scene="uid://dv7hpscsnseyf"
-config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="res://icon.svg"
+config/name="Terrain3D"
+run/main_scene="res://demo/Demo.tscn"
+config/features=PackedStringArray("4.5")
+config/icon="res://icon.png"
+
+[display]
+
+window/vsync/vsync_mode=0
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/terrain_3d/plugin.cfg")
+
+[filesystem]
+
+import/blender/enabled=false
+
+[layer_names]
+
+3d_physics/layer_1="Environment"
+3d_physics/layer_2="Player"
 
 [rendering]
 
 renderer/rendering_method="mobile"
+textures/vram_compression/import_etc2_astc=true
+occlusion_culling/use_occlusion_culling=true
