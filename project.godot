@@ -72,6 +72,7 @@ m_terrain/keymap/mpath_lock_z=Object(InputEventKey,"resource_local_to_scene":fal
 [application]
 
 config/name="Summoner-fight"
+run/main_scene="uid://dv7hpscsnseyf"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 

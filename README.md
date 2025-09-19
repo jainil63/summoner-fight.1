@@ -1,23 +1,29 @@
-![banner2](https://github.com/user-attachments/assets/6c0cb035-8390-4c7a-9ca6-61ea9ba6a279)
+# Summoner Fight
 
-Homebrew dialog tool. Find the source code and license and demos on [GitHub](https://github.com/SnekOfSpice/dialog-editor).
+It game develop by three passionate developers to learn godot engine and game development.. It is educational project.. don;t take it seriously...
 
-Also available on [itch.io](https://snekofspice.itch.io/diisis) and the [Godot Asset Library](https://godotengine.org/asset-library/asset/3188)
+## Overview & Inspiration!!
 
-# Demos & Project Templates
+We wanna create a place where we can learn and at end of day can make a project... this particular game will look more similar to shadow fight... we are not try to replicate it and by no means we say we can make a game like such... but we are try to improve our skill by try to make something along that melee combat game...
 
-The plugin comes with a template to [create visual novels](https://github.com/SnekOfSpice/dialog-editor/wiki/Using-the-visual-novel-template). Remember that DIISIS is only the nodes needed to display text, so any UI and functionality will have to be implemented by you if you do not use a template. This also means that with more coding effort, you can integrate DIISIS  into game loops that are not visual novels.
+## Authors / Collaborator!!
 
-![screenshot2](https://github.com/user-attachments/assets/ca341a37-09f5-467d-b5dc-381bedf9bb07)
+- Jainil Gondaliya (@jainil63) [Project Owner & Game Designer & Game Developer].
+- Rishab (@Rishu23-Glitch) [Game Designer & Game Artist].
+- Jeel Dobariya (@JeeLDobariya38) [Quality & Code Reviewer].
 
+## Special Thanks!!
 
-# Big Editor
+Special thanks to developers of shadow fight and also all asset creators that we use assets off!! They have been a great inspiration..
 
-DIISIS comes with its own editor that behaves like a hybrid between plugin and standalone software. It runs in a separate window inside Godot and is packed with esoteric features!
+All assets link along with credit info is found in [docs/external-assets-url.md](docs/external-assets-url.md).
 
-![image](https://github.com/user-attachments/assets/5d36d61c-c9ba-4bd7-992b-f0d153a24a9b)
+## We appericate contribution!!
 
+We appericate all and any kind of contribution (especially from beginners).. we don;t mind your mistakes we are create this game for learning.. so don;t fear open or make a pull request... or reach out to us if you are a beginner... (even those don;t know game developmen at all can even reach to us)
 
-# Reach out
-- Say hi on [bsky](https://bsky.app/profile/snekofspice.bsky.social)
-- Use the [GitHub Issues](https://github.com/SnekOfSpice/dialog-editor/issues) for bugs, feedback, and other issues you have with DIISIS
+For any kind of query releated to project or this game reachout to us.. contact infomation is on individual collobrtor profile..
+
+## License!!
+
+This project is license under [MIT](LICENSE)
